@@ -1,0 +1,15 @@
+E:\Users\serge\Desktop\Репозитории\ИтоговыйПроект_1_четверть\Task\bin\Debug\net7.0\Task.exe
+E:\Users\serge\Desktop\Репозитории\ИтоговыйПроект_1_четверть\Task\bin\Debug\net7.0\Task.deps.json
+E:\Users\serge\Desktop\Репозитории\ИтоговыйПроект_1_четверть\Task\bin\Debug\net7.0\Task.runtimeconfig.json
+E:\Users\serge\Desktop\Репозитории\ИтоговыйПроект_1_четверть\Task\bin\Debug\net7.0\Task.dll
+E:\Users\serge\Desktop\Репозитории\ИтоговыйПроект_1_четверть\Task\bin\Debug\net7.0\Task.pdb
+E:\Users\serge\Desktop\Репозитории\ИтоговыйПроект_1_четверть\Task\obj\Debug\net7.0\Task.csproj.AssemblyReference.cache
+E:\Users\serge\Desktop\Репозитории\ИтоговыйПроект_1_четверть\Task\obj\Debug\net7.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\serge\Desktop\Репозитории\ИтоговыйПроект_1_четверть\Task\obj\Debug\net7.0\Task.AssemblyInfoInputs.cache
+E:\Users\serge\Desktop\Репозитории\ИтоговыйПроект_1_четверть\Task\obj\Debug\net7.0\Task.AssemblyInfo.cs
+E:\Users\serge\Desktop\Репозитории\ИтоговыйПроект_1_четверть\Task\obj\Debug\net7.0\Task.csproj.CoreCompileInputs.cache
+E:\Users\serge\Desktop\Репозитории\ИтоговыйПроект_1_четверть\Task\obj\Debug\net7.0\Task.dll
+E:\Users\serge\Desktop\Репозитории\ИтоговыйПроект_1_четверть\Task\obj\Debug\net7.0\refint\Task.dll
+E:\Users\serge\Desktop\Репозитории\ИтоговыйПроект_1_четверть\Task\obj\Debug\net7.0\Task.pdb
+E:\Users\serge\Desktop\Репозитории\ИтоговыйПроект_1_четверть\Task\obj\Debug\net7.0\Task.genruntimeconfig.cache
+E:\Users\serge\Desktop\Репозитории\ИтоговыйПроект_1_четверть\Task\obj\Debug\net7.0\ref\Task.dll
