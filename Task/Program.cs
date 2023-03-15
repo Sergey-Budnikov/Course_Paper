@@ -7,11 +7,13 @@ for (int i = 0; i < array.Count(); i++)
 {
     if (array[i].Length <= 3)
     {
-        System.Console.Write($"{array[i]} ");
+        System.Console.Write($"{String.Join(" ", array[i])} ");
     }
 }
 }
+
 Method(array);
+
 
 
 // Вариант №2. Однокурсник Ревякин Илья.
